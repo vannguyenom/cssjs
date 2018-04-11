@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://omwater.vn';
+	var url_popup = 'https://bit.ly/2Hf6l8w';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
