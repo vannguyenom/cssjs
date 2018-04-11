@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://omwater.vn' target='_blank'><img src='https://omwater.vn/wp-content/uploads/2016/07/maxresdefault.jpg' width='500px'/><br/>13 Cong nghe xu ly nuoc gieng nhiem phen hieu qua</a>. HOTLINE : 0933387917. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://omwater.vn' target='_blank'><img src='https://omwater.vn/wp-content/uploads/2016/07/maxresdefault.jpg' width='500px'/><br/>CÔNG NGHỆ XỬ LÝ NƯỚC GIẾNG NHIỄM PHÈN HIỆU QUẢ</a>. HOTLINE : 0933387917. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
